@@ -1,0 +1,26 @@
+body {
+	background: #3a8cb8;
+    font:20px arial;
+    color: #fff;
+    text-align:center;
+    padding:35px; 
+}
+#chat {
+	text-align:left;
+    margin:0 auto;
+    margin-bottom:25px;
+    padding:10px;
+    background:#2579a5;
+    height:370px;
+    width:700px;
+    border:2px solid #ACD8F0;
+    overflow:auto;
+}
+input {
+	height: 40px;
+	background: #b9c0d5;
+	font-size: 100%;
+}
+#chat-message {
+	width: 50%;
+}
