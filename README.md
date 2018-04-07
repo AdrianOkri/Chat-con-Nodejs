@@ -1,5 +1,3 @@
-# ChatJONO
-
 Chat simple, con node.js y socket.io
 
 # Build Setup
